@@ -1,5 +1,7 @@
 # Econometrics II (Panel Data) — Graded Problem Set
+
 **April 2026 - Nicolas Abbate**
+
 **NYU Department of Economics · Instructor: Martín Almuzara · TA: Rafael Lincoln**
 
 ---
