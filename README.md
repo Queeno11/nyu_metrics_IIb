@@ -1,7 +1,6 @@
-# Econometrics II (Panel Data) — Graded Problem Set, April 2026
+# Econometrics II (Panel Data) — Graded Problem Set
+**April 2026 - Nicolas Abbate**
 **NYU Department of Economics · Instructor: Martín Almuzara · TA: Rafael Lincoln**
-
-This problem set studies efficiency comparisons across panel data estimators (Ex. 1), income and consumption dynamics via covariance structure estimation (Ex. 2), and testing for correlated random coefficients (Ex. 3). The empirical exercises (2 and 3) use PSID household panel data (`ps1_data.csv`, N=792, T=6 biennial waves 1999–2009).
 
 ---
 
